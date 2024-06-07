@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Spicy Chicken Curry",
+    "description": "A flavorful and spicy chicken curry recipe that will tantalize your taste buds.",
+    "ingredients": [
+      { "name": "Chicken thighs", "quantity": "500g" },
+      { "name": "Onion", "quantity": "1 large, chopped" },
+      { "name": "Garlic cloves", "quantity": "3, minced" },
+      { "name": "Ginger", "quantity": "1-inch piece, grated" },
+      { "name": "Tomatoes", "quantity": "2 large, diced" },
+      { "name": "Coconut milk", "quantity": "1 can (400ml)" },
+      { "name": "Curry powder", "quantity": "2 tbsp" },
+      { "name": "Chili powder", "quantity": "1 tbsp" },
+      { "name": "Salt", "quantity": "to taste" },
+      { "name": "Fresh cilantro", "quantity": "for garnish" },
+      { "name": "Cooking oil", "quantity": "2 tbsp" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Heat oil in a large pan over medium heat."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Add chopped onions and sauté until golden brown."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Add minced garlic and grated ginger, and cook for 1 minute."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Add diced tomatoes and cook until softened."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Stir in curry powder, chili powder, and salt."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Add chicken thighs and cook until browned on all sides."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Pour in coconut milk, cover, and simmer for 20 minutes until chicken is cooked through."
+      },
+      {
+        "stepNumber": 8,
+        "instruction": "Garnish with fresh cilantro before serving."
+      }
+    ],
+    "prepTime": 20,
+    "cookTime": 40,
+    "servings": 4
+  }
+]
