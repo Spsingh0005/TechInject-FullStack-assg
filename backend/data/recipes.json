@@ -52,5 +52,484 @@
     "prepTime": 20,
     "cookTime": 40,
     "servings": 4
+  },
+  {
+    "title": "Classic Beef Stew",
+    "description": "A hearty and comforting beef stew that is perfect for chilly nights.",
+    "ingredients": [
+      { "name": "Beef stew meat", "quantity": "1 lb" },
+      { "name": "Carrots", "quantity": "3 large, sliced" },
+      { "name": "Potatoes", "quantity": "2 large, diced" },
+      { "name": "Onion", "quantity": "1 large, chopped" },
+      { "name": "Celery", "quantity": "2 stalks, chopped" },
+      { "name": "Beef broth", "quantity": "4 cups" },
+      { "name": "Tomato paste", "quantity": "2 tbsp" },
+      { "name": "All-purpose flour", "quantity": "1/4 cup" },
+      { "name": "Worcestershire sauce", "quantity": "2 tbsp" },
+      { "name": "Bay leaves", "quantity": "2" },
+      { "name": "Salt", "quantity": "to taste" },
+      { "name": "Black pepper", "quantity": "to taste" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "In a large pot, brown the beef stew meat over medium-high heat."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Add chopped onions, carrots, celery, and potatoes to the pot."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Sprinkle flour over the ingredients and stir to coat evenly."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Stir in tomato paste and Worcestershire sauce."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Pour in beef broth and add bay leaves. Season with salt and pepper."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Bring the stew to a boil, then reduce heat and simmer for 1.5 to 2 hours until meat and vegetables are tender."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Serve hot, garnished with fresh parsley if desired."
+      }
+    ],
+    "prepTime": 20,
+    "cookTime": 120,
+    "servings": 6
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "description": "A colorful and nutritious vegetable stir fry that is quick and easy to make.",
+    "ingredients": [
+      { "name": "Broccoli florets", "quantity": "2 cups" },
+      { "name": "Bell peppers", "quantity": "1 each, sliced" },
+      { "name": "Carrots", "quantity": "2 large, julienned" },
+      { "name": "Snap peas", "quantity": "1 cup" },
+      { "name": "Red onion", "quantity": "1/2, sliced" },
+      { "name": "Garlic cloves", "quantity": "2, minced" },
+      { "name": "Ginger", "quantity": "1-inch piece, grated" },
+      { "name": "Soy sauce", "quantity": "3 tbsp" },
+      { "name": "Sesame oil", "quantity": "2 tbsp" },
+      { "name": "Honey", "quantity": "1 tbsp" },
+      { "name": "Cornstarch", "quantity": "1 tsp" },
+      { "name": "Rice vinegar", "quantity": "1 tbsp" },
+      { "name": "Cooking oil", "quantity": "2 tbsp" },
+      { "name": "Sesame seeds", "quantity": "for garnish" },
+      { "name": "Green onions", "quantity": "for garnish" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "In a small bowl, whisk together soy sauce, sesame oil, honey, cornstarch, and rice vinegar to make the sauce."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Heat cooking oil in a large skillet or wok over high heat."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Add minced garlic and grated ginger to the skillet, and stir-fry for 30 seconds."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Add sliced vegetables to the skillet and stir-fry for 3-4 minutes until crisp-tender."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Pour the sauce over the vegetables and cook for another 1-2 minutes until the sauce thickens."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Garnish with sesame seeds and sliced green onions before serving."
+      }
+    ],
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 4
+  },
+  {
+    "title": "Creamy Mushroom Risotto",
+    "description": "A creamy and comforting mushroom risotto that makes a perfect dinner option.",
+    "ingredients": [
+      { "name": "Arborio rice", "quantity": "1 cup" },
+      { "name": "Button mushrooms", "quantity": "200g, sliced" },
+      { "name": "Onion", "quantity": "1/2, finely chopped" },
+      { "name": "Garlic cloves", "quantity": "2, minced" },
+      { "name": "Vegetable broth", "quantity": "4 cups" },
+      { "name": "Dry white wine", "quantity": "1/2 cup" },
+      { "name": "Parmesan cheese", "quantity": "1/2 cup, grated" },
+      { "name": "Butter", "quantity": "2 tbsp" },
+      { "name": "Olive oil", "quantity": "2 tbsp" },
+      { "name": "Fresh parsley", "quantity": "for garnish" },
+      { "name": "Salt", "quantity": "to taste" },
+      { "name": "Black pepper", "quantity": "to taste" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "In a large skillet, heat olive oil over medium heat."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Add chopped onion and minced garlic, and sauté until translucent."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Add sliced mushrooms and cook until golden brown."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Add Arborio rice to the skillet and toast for 2 minutes, stirring constantly."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Pour in white wine and cook until it is absorbed by the rice."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Gradually add vegetable broth, one ladleful at a time, stirring frequently and allowing each addition to be absorbed before adding more."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Continue cooking until the rice is creamy and tender, about 20-25 minutes."
+      },
+      {
+        "stepNumber": 8,
+        "instruction": "Stir in grated Parmesan cheese and butter until melted and creamy."
+      },
+      {
+        "stepNumber": 9,
+        "instruction": "Season with salt and black pepper to taste."
+      },
+      {
+        "stepNumber": 10,
+        "instruction": "Garnish with chopped parsley before serving."
+      }
+    ],
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 4
+  },
+  {
+    "title": "Lemon Garlic Roast Chicken",
+    "description": "A juicy and flavorful roast chicken marinated in a zesty lemon and garlic mixture.",
+    "ingredients": [
+      { "name": "Whole chicken", "quantity": "1 (about 3-4 lbs)" },
+      { "name": "Lemons", "quantity": "2, juiced and zested" },
+      { "name": "Garlic cloves", "quantity": "4, minced" },
+      { "name": "Fresh rosemary", "quantity": "2 sprigs, chopped" },
+      { "name": "Olive oil", "quantity": "1/4 cup" },
+      { "name": "Salt", "quantity": "2 tsp" },
+      { "name": "Black pepper", "quantity": "1 tsp" }
+    ],
+    "steps": [
+      { "stepNumber": 1, "instruction": "Preheat the oven to 425°F (220°C)." },
+      {
+        "stepNumber": 2,
+        "instruction": "In a small bowl, whisk together lemon juice, lemon zest, minced garlic, chopped rosemary, olive oil, salt, and black pepper to make the marinade."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Place the whole chicken in a roasting pan or baking dish."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Rub the marinade all over the chicken, making sure to coat it evenly."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Tie the legs together with kitchen twine and tuck the wings under the body of the chicken."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Roast the chicken in the preheated oven for 60-75 minutes, or until the internal temperature reaches 165°F (75°C) when measured with a meat thermometer."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Remove the chicken from the oven and let it rest for 10 minutes before carving."
+      },
+      {
+        "stepNumber": 8,
+        "instruction": "Serve hot with your favorite side dishes."
+      }
+    ],
+    "prepTime": 15,
+    "cookTime": 75,
+    "servings": 4
+  },
+  {
+    "title": "Caprese Salad",
+    "description": "A classic Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
+    "ingredients": [
+      { "name": "Tomatoes", "quantity": "4 medium, sliced" },
+      { "name": "Fresh mozzarella cheese", "quantity": "8 oz, sliced" },
+      { "name": "Fresh basil leaves", "quantity": "1 cup" },
+      { "name": "Extra virgin olive oil", "quantity": "2 tbsp" },
+      { "name": "Balsamic vinegar", "quantity": "1 tbsp" },
+      { "name": "Salt", "quantity": "to taste" },
+      { "name": "Black pepper", "quantity": "to taste" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Arrange tomato slices and mozzarella cheese slices on a serving platter, alternating them."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Tuck fresh basil leaves between the tomato and cheese slices."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Drizzle extra virgin olive oil and balsamic vinegar over the salad."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Season with salt and black pepper to taste."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Serve immediately, garnished with additional basil leaves if desired."
+      }
+    ],
+    "prepTime": 10,
+    "servings": 4
+  },
+  {
+    "title": "Grilled Salmon with Lemon-Dill Sauce",
+    "description": "A light and flavorful grilled salmon dish served with a tangy lemon-dill sauce.",
+    "ingredients": [
+      { "name": "Salmon fillets", "quantity": "4 pieces (6 oz each)" },
+      { "name": "Fresh dill", "quantity": "2 tbsp, chopped" },
+      { "name": "Lemon zest", "quantity": "1 tsp" },
+      { "name": "Lemon juice", "quantity": "2 tbsp" },
+      { "name": "Greek yogurt", "quantity": "1/2 cup" },
+      { "name": "Garlic clove", "quantity": "1, minced" },
+      { "name": "Salt", "quantity": "1/2 tsp" },
+      { "name": "Black pepper", "quantity": "1/4 tsp" },
+      { "name": "Olive oil", "quantity": "2 tbsp" }
+    ],
+    "steps": [
+      { "stepNumber": 1, "instruction": "Preheat grill to medium-high heat." },
+      {
+        "stepNumber": 2,
+        "instruction": "In a small bowl, mix together chopped dill, lemon zest, lemon juice, Greek yogurt, minced garlic, salt, and black pepper to make the sauce."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Brush salmon fillets with olive oil and season with additional salt and black pepper."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Grill salmon fillets for 4-5 minutes per side, or until cooked through and easily flaked with a fork."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Serve grilled salmon with lemon-dill sauce on top."
+      }
+    ],
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 4
+  },
+  {
+    "title": "Mango Salsa",
+    "description": "A refreshing and colorful salsa made with ripe mangoes, bell peppers, and cilantro.",
+    "ingredients": [
+      { "name": "Ripe mangoes", "quantity": "2 large, diced" },
+      { "name": "Red bell pepper", "quantity": "1/2, diced" },
+      { "name": "Green bell pepper", "quantity": "1/2, diced" },
+      { "name": "Red onion", "quantity": "1/4, diced" },
+      { "name": "Fresh cilantro", "quantity": "1/4 cup, chopped" },
+      { "name": "Lime juice", "quantity": "2 tbsp" },
+      { "name": "Salt", "quantity": "1/2 tsp" },
+      { "name": "Black pepper", "quantity": "1/4 tsp" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "In a medium bowl, combine diced mangoes, bell peppers, red onion, and chopped cilantro."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Drizzle lime juice over the salsa and gently toss to combine."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Season with salt and black pepper to taste."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Refrigerate for at least 30 minutes before serving to allow the flavors to meld together."
+      }
+    ],
+    "prepTime": 15,
+    "servings": 4
+  },
+  {
+    "title": "Chicken Alfredo Pasta",
+    "description": "A creamy and indulgent pasta dish featuring tender chicken and rich Alfredo sauce.",
+    "ingredients": [
+      { "name": "Fettuccine pasta", "quantity": "8 oz" },
+      {
+        "name": "Chicken breast",
+        "quantity": "2 large, boneless and skinless, sliced"
+      },
+      { "name": "Heavy cream", "quantity": "1 cup" },
+      { "name": "Parmesan cheese", "quantity": "1 cup, grated" },
+      { "name": "Garlic cloves", "quantity": "2, minced" },
+      { "name": "Butter", "quantity": "2 tbsp" },
+      { "name": "Salt", "quantity": "1/2 tsp" },
+      { "name": "Black pepper", "quantity": "1/4 tsp" },
+      { "name": "Fresh parsley", "quantity": "for garnish" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Cook fettuccine pasta according to package instructions until al dente. Drain and set aside."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Season sliced chicken breast with salt and black pepper."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Add seasoned chicken breast slices to the skillet and cook until golden brown and cooked through, about 5-6 minutes per side."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Reduce heat to low. Pour heavy cream into the skillet and stir to combine with the chicken drippings."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Add grated Parmesan cheese to the skillet and stir until melted and smooth, creating a creamy Alfredo sauce."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Add cooked fettuccine pasta to the skillet and toss to coat evenly with the Alfredo sauce."
+      },
+      {
+        "stepNumber": 8,
+        "instruction": "Serve hot, garnished with fresh parsley."
+      }
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "description": "Classic chocolate chip cookies with a soft and chewy texture and gooey chocolate chips.",
+    "ingredients": [
+      { "name": "All-purpose flour", "quantity": "2 1/4 cups" },
+      { "name": "Unsalted butter", "quantity": "1 cup (2 sticks), softened" },
+      { "name": "Granulated sugar", "quantity": "3/4 cup" },
+      { "name": "Brown sugar", "quantity": "3/4 cup, packed" },
+      { "name": "Egg", "quantity": "1 large" },
+      { "name": "Vanilla extract", "quantity": "1 tsp" },
+      { "name": "Baking soda", "quantity": "1 tsp" },
+      { "name": "Salt", "quantity": "1/2 tsp" },
+      { "name": "Semi-sweet chocolate chips", "quantity": "2 cups" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Preheat oven to 375°F (190°C). Line baking sheets with parchment paper."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "In a large bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Beat in egg and vanilla extract until well combined."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "In a separate bowl, whisk together all-purpose flour, baking soda, and salt."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Gradually add dry ingredients to the wet ingredients, mixing until just combined."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Fold in semi-sweet chocolate chips until evenly distributed throughout the cookie dough."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Drop rounded tablespoons of dough onto prepared baking sheets, spacing them 2 inches apart."
+      },
+      {
+        "stepNumber": 8,
+        "instruction": "Bake in preheated oven for 8-10 minutes, or until edges are golden brown."
+      },
+      {
+        "stepNumber": 9,
+        "instruction": "Allow cookies to cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+      }
+    ],
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 24
+  },
+  {
+    "title": "Mediterranean Quinoa Salad",
+    "description": "A refreshing and nutritious salad packed with Mediterranean flavors and protein-rich quinoa.",
+    "ingredients": [
+      { "name": "Quinoa", "quantity": "1 cup, uncooked" },
+      { "name": "Cucumber", "quantity": "1 medium, diced" },
+      { "name": "Cherry tomatoes", "quantity": "1 cup, halved" },
+      { "name": "Red bell pepper", "quantity": "1, diced" },
+      { "name": "Red onion", "quantity": "1/4, finely chopped" },
+      { "name": "Kalamata olives", "quantity": "1/2 cup, pitted and halved" },
+      { "name": "Feta cheese", "quantity": "1/2 cup, crumbled" },
+      { "name": "Fresh parsley", "quantity": "1/4 cup, chopped" },
+      { "name": "Fresh lemon juice", "quantity": "2 tbsp" },
+      { "name": "Extra virgin olive oil", "quantity": "3 tbsp" },
+      { "name": "Garlic clove", "quantity": "1, minced" },
+      { "name": "Dried oregano", "quantity": "1 tsp" },
+      { "name": "Salt", "quantity": "1/2 tsp" },
+      { "name": "Black pepper", "quantity": "1/4 tsp" }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Rinse quinoa under cold water and cook according to package instructions. Once cooked, fluff with a fork and let it cool to room temperature."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "In a large bowl, combine cooled quinoa, diced cucumber, halved cherry tomatoes, diced red bell pepper, finely chopped red onion, halved Kalamata olives, crumbled feta cheese, and chopped parsley."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "In a small bowl, whisk together fresh lemon juice, extra virgin olive oil, minced garlic, dried oregano, salt, and black pepper to make the dressing."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Pour the dressing over the salad and toss until everything is evenly coated."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Refrigerate for at least 30 minutes to allow the flavors to meld together before serving."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Serve chilled and enjoy as a side dish or a light meal on its own."
+      }
+    ],
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4
   }
 ]

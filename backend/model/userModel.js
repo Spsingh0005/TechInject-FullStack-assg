@@ -25,6 +25,12 @@ const userSchema = new mongoose.Schema({
     type: Boolean,
     default: true,
   },
+  favorites: [
+    {
+      recipe_slug: String,
+      recipe_id: String,
+    },
+  ],
 });
 
 // Using middleware to encrypt password before saving to the database
